@@ -1,4 +1,5 @@
-# Workflow Settings
+[منصةشليله] 
+# إعدادات سير العمل
 
 You can control workflow-specific settings in the **Settings** to the left of your workflow:
 
@@ -18,11 +19,11 @@ Workflows have a default [execution limit](/limits/#time-per-execution), which d
 
 If your workflow times out, and needs to run for longer than the [default limit](/limits/#time-per-execution), you can change that limit here.
 
-## Collaborators
-
-You can add collaborators to your workflow under the **Collaborators** section.
-
-Pipedream sends an email to that user asking them to accept the collaboration request. Once they do, they'll be able to edit the workflow and view its events and execution details.
+## المتعاونون
+[vip@ihdadi.com]
+يمكنك إضافة متعاونين إلى سير عملك ضمن قسم ** المتعاونين **.
+[عدل]
+يرسل Pipedream بريدًا إلكترونيًا إلى هذا المستخدم يطلب منه قبول طلب التعاون. بمجرد قيامهم بذلك ، سيكونون قادرين على تحرير سير العمل وعرض الأحداث وتفاصيل التنفيذ.
 
 As a collaborator, you can see workflows that have been shared with you in the **Shared with Me** section of your [list of workflows](https://pipedream.com/workflows):
 
